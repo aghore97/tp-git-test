@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 IM A FK DEVE WEB
+=======
+Modify file.txt 
+>>>>>>> db0373cc4df331ab1797ec7d14b66c6996342973
