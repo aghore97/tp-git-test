@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 RozkeAdine
  je t'aime
+=======
+IM A FK DEVE WEB
+>>>>>>> 15011f2 (Add Text)
